@@ -263,7 +263,7 @@
                             children: [Object(l.jsx)("div", {
                                 className: "col-md-10 col-md-offset-1 section-title",
                                 children: Object(l.jsx)("h2", {
-                                    children: "Features"
+                                    children: "Değerlerimiz"
                                 })
                             }), Object(l.jsx)("div", {
                                 className: "row",
