@@ -224,7 +224,7 @@
                         children: Object(l.jsxs)("div", {
                             className: "intro",
                             children: [Object(l.jsx)(d.a, {
-                                type: "circle",
+                                type: "",
                                 bg: {
                                     zIndex: 0,
                                     position: "absolute",
