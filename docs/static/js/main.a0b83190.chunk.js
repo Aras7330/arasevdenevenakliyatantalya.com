@@ -344,9 +344,9 @@
                             children: [Object(l.jsxs)("div", {
                                 className: "section-title",
                                 children: [Object(l.jsx)("h2", {
-                                    children: "Our Services"
+                                    children: "Servislerimiz"
                                 }), Object(l.jsx)("p", {
-                                    children: "Children 2039"
+                                    children: "Taşımacılık servislerimizi inceleyin."
                                 })]
                             }), Object(l.jsx)("div", {
                                 className: "row",
