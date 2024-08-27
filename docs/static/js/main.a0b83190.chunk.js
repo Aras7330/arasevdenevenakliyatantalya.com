@@ -185,7 +185,7 @@
                                         children: Object(l.jsx)("a", {
                                             href: "#features",
                                             className: "page-scroll",
-                                            children: "Features"
+                                            children: "Değerlerimiz"
                                         })
                                     }), Object(l.jsx)("li", {
                                         children: Object(l.jsx)("a", {
