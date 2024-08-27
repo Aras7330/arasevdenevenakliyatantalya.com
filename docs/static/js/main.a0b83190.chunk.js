@@ -108,9 +108,9 @@
                   }
                 ],
                 "Contact": {
-                  "address": "4321 California St, San Francisco, CA 12345",
-                  "phone": "+1 123 456 1234",
-                  "email": "info@company.com",
+                  "address": "Yenimahalle Karatay Caddesi Kepez Antalya",
+                  "phone": "05418705001",
+                  "email": "Recep.kahraman1905@gmail.com",
                   "facebook": "fb.com",
                   "twitter": "twitter.com",
                   "youtube": "youtube.com"
