@@ -23,7 +23,7 @@
                 },
                 "Services": [
                   {
-                    "icon": "fa fa-wordpress",
+                    "icon": "fa fa-truck",
                     "name": "Evden Eve Taşıma",
                     "text": "Evinizi taşırken sizlere stressiz ve hızlı bir hizmet sunuyoruz. Eşyalarınızı özenle paketliyor, güvenli bir şekilde yeni adresinize ulaştırıyoruz. Profesyonel ekibimizle, taşınma sürecinizin her aşamasında yanınızdayız."
                   },
