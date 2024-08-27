@@ -174,7 +174,7 @@
                                 }), Object(l.jsx)("a", {
                                     className: "navbar-brand page-scroll",
                                     href: "#page-top",
-                                    children: "My Landing Page"
+                                    children: "Antalya Nakliyat"
                                 }), " "]
                             }), Object(l.jsx)("div", {
                                 className: "collapse navbar-collapse",
