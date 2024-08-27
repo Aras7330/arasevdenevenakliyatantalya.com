@@ -4,7 +4,7 @@
             e.exports = JSON.parse(`{
                 "Header": {
                   "title": "Taşınmanın Kolay Yolu, Güvencemizle Yanınızdayız",
-                  "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+                  "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
                   "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
