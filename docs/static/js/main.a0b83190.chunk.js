@@ -304,7 +304,7 @@
                                         children: [Object(l.jsx)("h2", {
                                             children: "Hakkımızda"
                                         }), Object(l.jsx)("p", {
-                                            children: e.data ? e.data.paragraph : "loading..."
+                                            children: "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermekteyiz şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz"
                                         }), Object(l.jsx)("h3", {
                                             children: "Why Choose Us?"
                                         }), Object(l.jsxs)("div", {
