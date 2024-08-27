@@ -209,7 +209,7 @@
                                 children: [Object(l.jsx)("h2", {
                                     children: "Our Services"
                                 }), Object(l.jsx)("p", {
-                                    children: "Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec."
+                                    children: "Children 2039"
                                 })]
                             }), Object(l.jsx)("div", {
                                 className: "row",
@@ -287,7 +287,7 @@
                                 children: [Object(l.jsx)("h2", {
                                     children: "Gallery"
                                 }), Object(l.jsx)("p", {
-                                    children: "Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec."
+                                    children: "Children 1009"
                                 })]
                             }), Object(l.jsxs)("div", {
                                 className: "row",
@@ -340,7 +340,7 @@
                             children: [Object(l.jsx)("div", {
                                 className: "section-title text-center",
                                 children: Object(l.jsx)("h2", {
-                                    children: "What our clients say"
+                                    children: "Müşterilerimiz neler düşünüyor?"
                                 })
                             }), Object(l.jsx)("div", {
                                 className: "row",
@@ -381,7 +381,7 @@
                                     children: ["\xa9 Recep Kahraman", " ", Object(l.jsx)("a", {
                                         href: "arasevdenevenakliyatantalya.com",
                                         rel: "nofollow",
-                                        children: "TemplateWire"
+                                        children: "Aras Evden Eve Nakliyat"
                                     })]
                                 })
                             })
