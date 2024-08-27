@@ -117,22 +117,22 @@
                 },
                 "Features": [
                   {
-                    "icon": "fa fa-comments-o",
+                    "icon": "fa fa-truck",
                     "title": "Güvenilirlik",
                     "text": "Nakliye süreçlerinin zamanında ve eksiksiz bir şekilde gerçekleştirilmesi, müşteri memnuniyetinin temelidir. Firmamız, her sevkiyatın belirlenen zaman diliminde ve hasarsız olarak ulaşmasını sağlamak için güvenilirlik ilkesine bağlı kalır."
                   },
                   {
-                    "icon": "fa fa-bullhorn",
+                    "icon": "fa fa-handshake",
                     "title": "Müşteri Odaklılık",
                     "text": "Müşterilerin ihtiyaçlarına hızlı ve etkili çözümler sunmak, firmamızın önceliğidir. Hizmetlerimizi, müşterilerimizin beklentilerini karşılayacak şekilde özelleştirir ve memnuniyetlerini en üst düzeyde tutarız."
                   },
                   {
-                    "icon": "fa fa-group",
+                    "icon": "fa fa-eye",
                     "title": "Şeffaflık",
                     "text": "Hizmet süreçlerinde ve fiyatlandırmada açık ve dürüst olmak, müşterilerimizle olan güven ilişkisini güçlendirir. Firmamız, her aşamada müşterilerini bilgilendirir ve olası sorunları önceden haber verir."
                   },
                   {
-                    "icon": "fa fa-magic",
+                    "icon": "fa fa-smile",
                     "title": "Güler Yüz ve Saygı",
                     "text": "Firmamız, her müşterimize güler yüzlü ve saygılı bir hizmet sunmayı taahhüt eder. Çalışanlarımız, müşteri memnuniyetini en üst düzeyde tutmak için her zaman nazik, profesyonel ve yardımcı olmaya özen gösterir."
                   }
