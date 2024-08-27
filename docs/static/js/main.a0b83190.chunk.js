@@ -7,18 +7,18 @@
                   "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
-                  "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "paragraph": "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermekteyiz şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz ",
                   "Why": [
-                    "Lorem ipsum dolor",
-                    "Tempor incididunt",
-                    "Lorem ipsum dolor",
-                    "Incididunt ut labore"
+                    "Hızlı ve Güvenilir Hizmet",
+                    "Deneyimli Ekip",
+                    "Özelleştirilmiş Çözümler",
+                    "Müşteri Memnuniyeti Odaklılık"
                   ],
                   "Why2": [
-                    "Aliquip ex ea commodo",
-                    "Lorem ipsum dolor",
-                    "Exercitation ullamco",
-                    "Lorem ipsum dolor"
+                    "Esnek Çalışma Saatleri",
+                    "Eksiksiz Ambalajlama Hizmeti",
+                    "Güler Yüzlü ve Yardımsever Ekip",
+                    "7/24 Müşteri Desteği"
                   ]
                 },
                 "Services": [
@@ -304,9 +304,9 @@
                                         children: [Object(l.jsx)("h2", {
                                             children: "Hakkımızda"
                                         }), Object(l.jsx)("p", {
-                                            children: "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermekteyiz şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz"
+                                            children: e.data ? e.data.paragraph : "loading..."
                                         }), Object(l.jsx)("h3", {
-                                            children: "Why Choose Us?"
+                                            children: "Neden bizi tercih etmelisiniz?"
                                         }), Object(l.jsxs)("div", {
                                             className: "list-style",
                                             children: [Object(l.jsx)("div", {
