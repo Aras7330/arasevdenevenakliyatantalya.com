@@ -117,7 +117,7 @@
                 },
                 "Features": [
                   {
-                    "icon": "fa fa-truck",
+                    "icon": "fa fa-check",
                     "title": "Güvenilirlik",
                     "text": "Nakliye süreçlerinin zamanında ve eksiksiz bir şekilde gerçekleştirilmesi, müşteri memnuniyetinin temelidir. Firmamız, her sevkiyatın belirlenen zaman diliminde ve hasarsız olarak ulaşmasını sağlamak için güvenilirlik ilkesine bağlı kalır."
                   },
