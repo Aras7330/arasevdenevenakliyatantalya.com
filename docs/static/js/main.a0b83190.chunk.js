@@ -118,23 +118,23 @@
                 "Features": [
                   {
                     "icon": "fa fa-comments-o",
-                    "title": "Lorem ipsum",
-                    "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+                    "title": "Güvenilirlik",
+                    "text": "Nakliye süreçlerinin zamanında ve eksiksiz bir şekilde gerçekleştirilmesi, müşteri memnuniyetinin temelidir. Firmamız, her sevkiyatın belirlenen zaman diliminde ve hasarsız olarak ulaşmasını sağlamak için güvenilirlik ilkesine bağlı kalır."
                   },
                   {
                     "icon": "fa fa-bullhorn",
-                    "title": "Lorem ipsum",
-                    "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+                    "title": "Müşteri Odaklılık",
+                    "text": "Müşterilerin ihtiyaçlarına hızlı ve etkili çözümler sunmak, firmamızın önceliğidir. Hizmetlerimizi, müşterilerimizin beklentilerini karşılayacak şekilde özelleştirir ve memnuniyetlerini en üst düzeyde tutarız."
                   },
                   {
                     "icon": "fa fa-group",
-                    "title": "Lorem ipsum",
-                    "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+                    "title": "Şeffaflık",
+                    "text": "Hizmet süreçlerinde ve fiyatlandırmada açık ve dürüst olmak, müşterilerimizle olan güven ilişkisini güçlendirir. Firmamız, her aşamada müşterilerini bilgilendirir ve olası sorunları önceden haber verir."
                   },
                   {
                     "icon": "fa fa-magic",
-                    "title": "Lorem ipsum",
-                    "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+                    "title": "Güler Yüz ve Saygı",
+                    "text": "Firmamız, her müşterimize güler yüzlü ve saygılı bir hizmet sunmayı taahhüt eder. Çalışanlarımız, müşteri memnuniyetini en üst düzeyde tutmak için her zaman nazik, profesyonel ve yardımcı olmaya özen gösterir."
                   }
                 ]
               }`);
@@ -302,7 +302,7 @@
                                     children: Object(l.jsxs)("div", {
                                         className: "about-text",
                                         children: [Object(l.jsx)("h2", {
-                                            children: "About Us"
+                                            children: "Hakkımızda"
                                         }), Object(l.jsx)("p", {
                                             children: e.data ? e.data.paragraph : "loading..."
                                         }), Object(l.jsx)("h3", {
