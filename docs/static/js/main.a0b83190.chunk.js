@@ -191,25 +191,25 @@
                                         children: Object(l.jsx)("a", {
                                             href: "#about",
                                             className: "page-scroll",
-                                            children: "About"
+                                            children: "Hakkımızda"
                                         })
                                     }), Object(l.jsx)("li", {
                                         children: Object(l.jsx)("a", {
                                             href: "#services",
                                             className: "page-scroll",
-                                            children: "Services"
+                                            children: "Servislerimiz"
                                         })
                                     }), Object(l.jsx)("li", {
                                         children: Object(l.jsx)("a", {
                                             href: "#portfolio",
                                             className: "page-scroll",
-                                            children: "Gallery"
+                                            children: "Resimler"
                                         })
                                     }), Object(l.jsx)("li", {
                                         children: Object(l.jsx)("a", {
                                             href: "#testimonials",
                                             className: "page-scroll",
-                                            children: "Testimonials"
+                                            children: "Referanslarımız"
                                         })
                                     })]
                                 })
