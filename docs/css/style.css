@@ -187,6 +187,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	position: relative;
 	width: 100%;
 	padding: 0;
+	background-image: url('img/bg.png');
+	background-size: cover;
+    background-position: center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
