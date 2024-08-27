@@ -30,7 +30,7 @@
                   {
                     "icon": "fa fa-cart-arrow-down",
                     "name": "Asansörlü Taşıma",
-                    "text": "Yüksek katlarda oturuyorsanız ya da dar merdivenlerden geçmesi zor eşyalarınız varsa, asansörlü taşıma hizmetimizle bu sorunları ortadan kaldırıyoruz. Eşyalarınızı güvenle ve hızlı bir şekilde taşımak için modern asansör sistemlerimizle hizmetinizdeyiz."
+                    "text": "Yüksek katlarda oturuyorsanız ya da dar merdivenlerden geçmesi zor eşyalarınız varsa, asansörlü taşıma hizmetimizle bu sorunları ortadan kaldırıyoruz."
                   },
                   {
                     "icon": "fa fa-cloud-download",
