@@ -1799,3 +1799,7 @@
 .fa-medium:before {
   content: "\f23a";
 }
+
+.fa-face-smile:before {
+  content: "\f118"
+}
