@@ -3,7 +3,7 @@
         15: function(e) {
             e.exports = JSON.parse(`{
                 "Header": {
-                  "title": "Taşınmanın Kolay Yolu, Güvencemizle Yanınızdayız",
+                  "title": "Taşınmanın Kolay Yolu",
                   "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
