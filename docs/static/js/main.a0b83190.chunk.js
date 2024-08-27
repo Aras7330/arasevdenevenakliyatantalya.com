@@ -24,33 +24,33 @@
                 "Services": [
                   {
                     "icon": "fa fa-wordpress",
-                    "name": "Lorem ipsum dolor",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Evden Eve Taşıma",
+                    "text": "Evinizi taşırken sizlere stressiz ve hızlı bir hizmet sunuyoruz. Eşyalarınızı özenle paketliyor, güvenli bir şekilde yeni adresinize ulaştırıyoruz. Profesyonel ekibimizle, taşınma sürecinizin her aşamasında yanınızdayız."
                   },
                   {
                     "icon": "fa fa-cart-arrow-down",
-                    "name": "Consectetur adipiscing",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Asansörlü Taşıma",
+                    "text": "Yüksek katlarda oturuyorsanız ya da dar merdivenlerden geçmesi zor eşyalarınız varsa, asansörlü taşıma hizmetimizle bu sorunları ortadan kaldırıyoruz. Eşyalarınızı güvenle ve hızlı bir şekilde taşımak için modern asansör sistemlerimizle hizmetinizdeyiz."
                   },
                   {
                     "icon": "fa fa-cloud-download",
-                    "name": "Lorem ipsum dolor",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Ofis Taşıma",
+                    "text": "Ofis taşımacılığında, iş akışınızı aksatmadan hızlı ve güvenli bir taşınma hizmeti sunuyoruz. Ofis mobilyalarınızı, elektronik cihazlarınızı ve diğer ekipmanlarınızı özenle paketliyor, yeni ofisinize sorunsuz bir şekilde taşıyoruz."
                   },
                   {
                     "icon": "fa fa-language",
-                    "name": "Consectetur adipiscing",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Hassas Eşya Taşıma",
+                    "text": "Kırılabilecek, hassas eşyalarınızın taşınması için özel bir hizmet sunuyoruz. Cam, porselen, elektronik cihazlar gibi hassas eşyalarınızı, profesyonel bir şekilde paketliyor ve güvenli bir şekilde taşıyoruz."
                   },
                   {
                     "icon": "fa fa-plane",
-                    "name": "Lorem ipsum dolor",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Güvenli Taşımacılık",
+                    "text": "Değerli eşyalarınızın güvenliğini ön planda tutuyoruz. Özel paketleme yöntemlerimiz ve güvenlik önlemlerimizle, değerli eşyalarınızın taşınma sürecinde güvende kalmasını sağlıyoruz."
                   },
                   {
                     "icon": "fa fa-pie-chart",
-                    "name": "Consectetur adipiscing",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+                    "name": "Montaj ve Demontaj Hizmeti",
+                    "text": "Mobilyalarınızın taşınma öncesinde sökülmesi ve yeni yerinizde yeniden kurulması işlemlerini profesyonel ekibimizle gerçekleştiriyoruz. Zaman kaybetmeden ve herhangi bir hasar riski olmadan eşyalarınızı taşıyıp yerleştiriyoruz, böylece taşınma süreciniz çok daha kolay ve zahmetsiz hale geliyor."
                   }
                 ],
                 "Testimonials": [
