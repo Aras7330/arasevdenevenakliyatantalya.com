@@ -122,7 +122,7 @@
                     "text": "Nakliye süreçlerinin zamanında ve eksiksiz bir şekilde gerçekleştirilmesi, müşteri memnuniyetinin temelidir. Firmamız, her sevkiyatın belirlenen zaman diliminde ve hasarsız olarak ulaşmasını sağlamak için güvenilirlik ilkesine bağlı kalır."
                   },
                   {
-                    "icon": "fa-solid fa-group",
+                    "icon": "fa fa-group",
                     "title": "Müşteri Odaklılık",
                     "text": "Müşterilerin ihtiyaçlarına hızlı ve etkili çözümler sunmak, firmamızın önceliğidir. Hizmetlerimizi, müşterilerimizin beklentilerini karşılayacak şekilde özelleştirir ve memnuniyetlerini en üst düzeyde tutarız."
                   },
