@@ -7,7 +7,7 @@
                   "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
-                  "paragraph": "Aras Evden Eve Nakliyat 2009 yılından beri Antalya'da hizmet vermektedir. Adres: Yenimahalle Karatay Caddesi Kepez/Antalya. İletişim: 05418705001",
+                  "paragraph": "Aras Evden Eve Nakliyat, 2009 yılından bu yana Antalya Evden Eve Nakliye sektöründe öncü bir firma olarak hizmet vermektedir. Antalya'nın Kepez ilçesinde bulunan merkezimiz, modern ve yenilikçi taşımacılık çözümleri ile bilinir. Antalya asansörlü nakliye hizmeti sunarak, yüksek katlardaki taşınmaları da sorunsuz bir şekilde gerçekleştirmekteyiz. Aras Evden Eve Nakliyat, Antalya'da evden eve nakliye ve asansörlü taşımacılık hizmetleri konusunda güvenilir bir çözüm ortağınız olarak hizmetinizdedir. Hizmetlerimiz hakkında daha fazla bilgi almak veya taşınma planınızı başlatmak için bizimle iletişime geçin! İletişim Bilgileri: Recep Kahraman | 05418705001 - Adres | Yenimahalle Karatay Caddesi, Kepez, Antalya",
                   "Why": [
                     "Hızlı ve Güvenilir Hizmet",
                     "Deneyimli Ekip",
@@ -15,10 +15,10 @@
                     "Müşteri Memnuniyeti Odaklılık"
                   ],
                   "Why2": [
-                    "Esnek Çalışma Saatleri",
+                    "Antalya'nın En İyi Nakliye Firmalarından",
                     "Eksiksiz Ambalajlama Hizmeti",
                     "Güler Yüzlü ve Yardımsever Ekip",
-                    "7/24 Müşteri Desteği"
+                    "Asansörlü Nakliye Hizmeti"
                   ]
                 },
                 "Services": [
