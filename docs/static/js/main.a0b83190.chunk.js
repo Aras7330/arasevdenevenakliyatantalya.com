@@ -293,7 +293,7 @@
                                 children: [Object(l.jsxs)("div", {
                                     className: "col-xs-12 col-md-6",
                                     children: [" ", Object(l.jsx)("img", {
-                                        src: "img/about.jpg",
+                                        src: "img/about.png",
                                         className: "img-responsive",
                                         alt: ""
                                     }), " "]
