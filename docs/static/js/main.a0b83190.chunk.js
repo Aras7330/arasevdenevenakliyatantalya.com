@@ -506,8 +506,8 @@
                             children: Object(l.jsx)("div", {
                                 className: "container text-center",
                                 children: Object(l.jsxs)("p", {
-                                    children: ["\xa9 Recep Kahraman", " ", Object(l.jsx)("a", {
-                                        href: "arasevdenevenakliyatantalya.com",
+                                    children: ["\xa9 Recep Kahraman | 05418705001", " ", Object(l.jsx)("a", {
+                                        href: "#",
                                         rel: "nofollow",
                                         children: "Aras Evden Eve Nakliyat"
                                     })]
