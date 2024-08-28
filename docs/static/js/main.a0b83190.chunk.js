@@ -56,32 +56,32 @@
                 "Testimonials": [
                   {
                     "img": "img/testimonials/01.jpg",
-                    "text": "\\Nakliye süreci boyunca çok profesyonel bir hizmet aldık. Eşyalarımız hasar görmeden ve tam zamanında teslim edildi. Çalışanlar son derece nazik ve dikkatliydi. Kesinlikle tavsiye ederim!\\",
+                    "text": "\\"Nakliye süreci boyunca çok profesyonel bir hizmet aldık. Eşyalarımız hasar görmeden ve tam zamanında teslim edildi. Çalışanlar son derece nazik ve dikkatliydi. Kesinlikle tavsiye ederim!\\"",
                     "name": "Ahmet Y."
                   },
                   {
                     "img": "img/testimonials/02.jpg",
-                    "text": "\\Taşınma öncesinde ve sırasında her şey mükemmel organize edildi. Eşyalarımın hepsi özenle paketlendi ve hiçbir sorun yaşamadım. İşlerini titizlikle yapan bir ekip, tekrar taşınacak olsam yine bu firmayı tercih ederim.\\",
+                    "text": "\\"Taşınma öncesinde ve sırasında her şey mükemmel organize edildi. Eşyalarımın hepsi özenle paketlendi ve hiçbir sorun yaşamadım. İşlerini titizlikle yapan bir ekip, tekrar taşınacak olsam yine bu firmayı tercih ederim.\\"",
                     "name": "Elif K"
                   },
                   {
                     "img": "img/testimonials/03.jpg",
-                    "text": "\\Firma, taşınma stresini minimuma indirdi. Zamanında geldiler ve hızlı bir şekilde tüm eşyalarımızı taşıdılar. Fiyat/performans açısından da oldukça memnun kaldım.\\",
+                    "text": "\\"Firma, taşınma stresini minimuma indirdi. Zamanında geldiler ve hızlı bir şekilde tüm eşyalarımızı taşıdılar. Fiyat/performans açısından da oldukça memnun kaldım.\\"",
                     "name": "Murat T"
                   },
                   {
                     "img": "img/testimonials/04.jpg",
-                    "text": "\\Eşyalarımın taşınması konusunda oldukça titiz davrandılar. Her şey tam da istediğim gibi oldu. Ayrıca iletişimleri de çok güçlüydü, her aşamada bilgilendirildim.\\",
+                    "text": "\\"Eşyalarımın taşınması konusunda oldukça titiz davrandılar. Her şey tam da istediğim gibi oldu. Ayrıca iletişimleri de çok güçlüydü, her aşamada bilgilendirildim.\\"",
                     "name": "Selin B"
                   },
                   {
                     "img": "img/testimonials/05.jpg",
-                    "text": "\\Firma gerçekten işini çok iyi yapıyor. Taşıma sırasında hiçbir problem yaşamadım. Eşyalarım güvenli bir şekilde yeni evime ulaştırıldı. Taşınmayı düşünen herkese öneririm.\\",
+                    "text": "\\"Firma gerçekten işini çok iyi yapıyor. Taşıma sırasında hiçbir problem yaşamadım. Eşyalarım güvenli bir şekilde yeni evime ulaştırıldı. Taşınmayı düşünen herkese öneririm.\\"",
                     "name": "Mehmet A"
                   },
                   {
                     "img": "img/testimonials/06.jpg",
-                    "text": "\\Hızlı, güvenilir ve profesyonel bir hizmet aldık. Çalışanlar çok saygılı ve işlerinde uzmandı. Taşınma sürecinde bizimle sürekli iletişim halindeydiler, bu da içimizi rahatlattı. Harika bir deneyimdi!\\",
+                    "text": "\\"Hızlı, güvenilir ve profesyonel bir hizmet aldık. Çalışanlar çok saygılı ve işlerinde uzmandı. Taşınma sürecinde bizimle sürekli iletişim halindeydiler, bu da içimizi rahatlattı. Harika bir deneyimdi!\\"",
                     "name": "Ayşe D"
                   }
                 ],
