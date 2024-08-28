@@ -468,7 +468,7 @@
                             children: [Object(l.jsx)("div", {
                                 className: "section-title text-center",
                                 children: Object(l.jsx)("h2", {
-                                    children: "Müşterilerimiz neler düşünüyor?"
+                                    children: "MÜŞTERİLERİMİZ NELER DÜŞÜNÜYOR?"
                                 })
                             }), Object(l.jsx)("div", {
                                 className: "row",
