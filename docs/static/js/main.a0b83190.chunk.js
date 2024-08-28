@@ -4,7 +4,7 @@
             e.exports = JSON.parse(`{
                 "Header": {
                   "title": "Taşınmanın Kolay Yolu",
-                  "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır.Şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
+                  "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
                   "paragraph": "Aras evden eve nakliyat 2009 yılından beri Antalya da hizmet vermektedir. Adres: Yenimahalle Karatay Caddesi Kepez/Antalya. İletişim: 05418705001",
@@ -506,7 +506,7 @@
                             children: Object(l.jsx)("div", {
                                 className: "container text-center",
                                 children: Object(l.jsxs)("p", {
-                                    children: ["\xa9 Recep Kahraman | 05418705001", " ", Object(l.jsx)("a", {
+                                    children: ["\xa9 Recep Kahraman | 05418705001 |  Yenimahalle Karatay Caddesi Kepez/Antalya", " ", Object(l.jsx)("a", {
                                         href: "#",
                                         rel: "nofollow",
                                         children: "Aras Evden Eve Nakliyat"
