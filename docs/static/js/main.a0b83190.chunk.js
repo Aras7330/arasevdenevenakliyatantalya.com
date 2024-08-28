@@ -415,7 +415,7 @@
                                 children: [Object(l.jsx)("h2", {
                                     children: "Gallery"
                                 }), Object(l.jsx)("p", {
-                                    children: "Tamamladığımız işlere göz atın."
+                                    children: "Antalya evden eve nakliyat sektöründe tamamladığımız işlere göz atın."
                                 })]
                             }), Object(l.jsxs)("div", {
                                 className: "row",
