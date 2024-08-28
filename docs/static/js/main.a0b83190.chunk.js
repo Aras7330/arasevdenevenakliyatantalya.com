@@ -382,22 +382,22 @@
                         m = r[1],
                         j = [{
                             thumb: "img/portfolio/01-small.jpg",
-                            title: "Asansör 01"
+                            title: "Antalya Asansörlü Nakliye Hizmeti 01"
                         }, {
                             thumb: "img/portfolio/02-small.jpg",
-                            title: "Asansör 02"
+                            title: "Antalya Asansörlü Nakliye Hizmeti 02"
                         }, {
                             thumb: "img/portfolio/03-small.jpg",
-                            title: "Paketleme"
+                            title: "Antalya Nakliye Güvenli Paketleme 01"
                         }, {
                             thumb: "img/portfolio/04-small.jpg",
-                            title: "Ambalaj"
+                            title: "Antalya Nakliye Güvenli Paketleme 02"
                         }, {
                             thumb: "img/portfolio/05-small.jpg",
-                            title: "Nakliye 01"
+                            title: "Antalya Evden Eve Nakliye Hizmeti 01"
                         }, {
                             thumb: "img/portfolio/06-small.jpg",
-                            title: "Nakliye 02"
+                            title: "Antalya Evden Eve Nakliye Hizmeti 02"
                         }],
                         u = j.map((function(e) {
                             return e.thumb.replace("-small", "-large")
