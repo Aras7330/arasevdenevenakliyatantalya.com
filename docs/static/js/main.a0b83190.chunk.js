@@ -9,7 +9,8 @@
                 "About": {
                   "paragraph": "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermektedir. Şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz.
                   
-                  CEP: 05418705001",
+                  CEP: 05418705001
+                  ADRES: Yenimahalle Karatay Caddesi Kepez/Antalya",
                   "Why": [
                     "Hızlı ve Güvenilir Hizmet",
                     "Deneyimli Ekip",
