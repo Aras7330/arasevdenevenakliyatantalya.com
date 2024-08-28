@@ -66,7 +66,7 @@
                   },
                   {
                     "img": "img/testimonials/03.jpg",
-                    "text": "\\"Firma, taşınma stresini minimuma indirdi. Zamanında geldiler ve hızlı bir şekilde tüm eşyalarımızı taşıdılar. Fiyat/performans açısından da oldukça memnun kaldım.\\"",
+                    "text": "\\"Firma, taşınma stresini minimuma indirdi. Zamanında geldiler ve hızlı bir şekilde tüm eşyalarımızı taşıdılar. Fiyat/performans açısından da oldukça memnun kaldım. Asansör çözümü için Recep Bey' e çok teşekkür ederiz.🙏\\"",
                     "name": "Murat T"
                   },
                   {
