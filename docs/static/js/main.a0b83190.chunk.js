@@ -7,7 +7,7 @@
                   "paragraph": "Evinizi yeni adresinize sorunsuz ve güvenli bir şekilde taşıyoruz. Profesyonel ekibimiz, eşyalarınızı en özenli şekilde paketler ve taşır. Taşınmanın tüm stresini bize bırakın, siz yeni evinizin keyfini çıkarın!"
                 },
                 "About": {
-                  "paragraph": "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermekteyiz şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz ",
+                  "paragraph": "Aras evden eve nakliyat olarak 2009 yılından beri Antalya da hizmet vermektedir. Şehir içi şehirler arası ev ofis taşıma işlerinizi kolay ve stresiz hale getiriyoruz.",
                   "Why": [
                     "Hızlı ve Güvenilir Hizmet",
                     "Deneyimli Ekip",
@@ -44,8 +44,8 @@
                   },
                   {
                     "icon": "fa fa-check",
-                    "name": "Güvenli Taşımacılık",
-                    "text": "Değerli eşyalarınızın güvenliğini ön planda tutuyoruz. Özel paketleme yöntemlerimiz ve güvenlik önlemlerimizle, değerli eşyalarınızın taşınma sürecinde güvende kalmasını sağlıyoruz."
+                    "name": "Şehirler Arası Taşımacılık",
+                    "text": "Eşyalarınızın güvenli ve hızlı bir şekilde Türkiye'nin dört bir yanına taşınmasını sağlayan profesyonel bir nakliye hizmetidir. Deneyimli ekibimiz ve modern araç filomuz ile taşınma sürecinizi stressiz hale getiriyoruz."
                   },
                   {
                     "icon": "fa fa-check",
