@@ -245,7 +245,7 @@
                                             }), Object(l.jsx)("a", {
                                                 href: "#features",
                                                 className: "btn btn-custom btn-lg page-scroll",
-                                                children: "Daha fazla bilgi"
+                                                children: "DAHA FAZLA BİLGİ"
                                             }), " "]
                                         })
                                     })
